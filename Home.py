@@ -54,7 +54,7 @@ mpl.rcParams['font.size']           = 12
 sns.set_palette('rocket')
 
 ### Set the locale to the United States
-locale.setlocale(locale.LC_ALL, 'en_US.UTF-8');
+# locale.setlocale(locale.LC_ALL, 'en_US.UTF-8');
 
 ##### 2. Loading Data #####
 
